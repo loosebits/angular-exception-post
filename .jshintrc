@@ -1,0 +1,19 @@
+{
+    "es3": true,
+    "eqnull": true,
+    "expr": true,
+    "browser": true,
+    "latedef": true,
+    "noarg": true,
+    "smarttabs": true,
+    "undef": true,
+    "unused": "vars",
+    "laxcomma": true,
+    "loopfunc": true,
+    "predef": [
+        "_",
+        "angular",
+        "$",
+        "moment"
+    ]
+}

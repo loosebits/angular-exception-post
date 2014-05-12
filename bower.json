@@ -1,0 +1,32 @@
+{
+  "name": "angular-exception-post",
+  "version": "0.1.0",
+  "authors": [
+    "Rand McNeely <loosebits@gmail.com>"
+  ],
+  "description": "Angular client exception POSTer",
+  "license": "MIT",
+  "homepage": "https://github.com/loosebits/angular-exception-post",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/loosebits/angular-exception-post.git"
+  },
+  "main": "./dist/angular-exception-post.min.js",
+  "ignore": [
+    "**/.*",
+    "Gruntfile.js",
+    "karma.conf.js",
+    "package.json",
+    "test",
+    "src",
+    ".travis.yml"
+  ],
+  "dependencies": {
+    "angular": "*",
+    "stacktrace": "~0.6.0"
+  },
+  "devDependencies": {
+    "angular": "*",
+    "angular-mocks": "*"
+  }
+}
